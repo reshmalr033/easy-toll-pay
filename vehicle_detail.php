@@ -91,7 +91,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="col-lg-2"></div>
 <div class="col-lg-8">
     
-		 <h2 style="color: #00ACED;font: italic"> Vehicle Details</h2>
+		 <h2 style="color: #00ACED;font: italic"> VEHICLE DETAILS</h2>
 		   
    <table  class="table  table-responsive  table-striped table-bordered "height="300"border="3">
          <?php
